@@ -7,6 +7,9 @@
     other sylesheets into your bunde as well, e.j:
     
     import 'relative/path/to/stylesheet.scss';
-    --#{$prefix}btn-close-hover-opacity: #{$btn-close-hover-opacity};
 
 */
+.name{
+    color: blue;
+    margin-left: 20px;
+}
